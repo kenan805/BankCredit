@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.AssemblyInfo.cs
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.exe
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.deps.json
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.runtimeconfig.json
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.runtimeconfig.dev.json
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.dll
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\ref\BankCredit.dll
+C:\Users\user\source\repos\BankCredit\BankCredit\bin\Debug\net5.0\BankCredit.pdb
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.dll
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\ref\BankCredit.dll
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.pdb
+C:\Users\user\source\repos\BankCredit\BankCredit\obj\Debug\net5.0\BankCredit.genruntimeconfig.cache
