@@ -18,7 +18,7 @@ namespace BankCredit
             Surname = surname;
             Age = age;
         }
-        public override string ToString() => $"Guid: {Guid}\nName: {Name}\nSurname: {Surname}\nAge: {Age}";
+        public override string ToString() => $"Guid: {Guid} \nName: {Name}\nSurname: {Surname}\nAge: {Age}";
 
     }
 }
